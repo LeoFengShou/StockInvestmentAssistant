@@ -1,5 +1,5 @@
 '''
-Author:     Shoujun Feng
+Author:     Shoujun Leo Feng
             1T9 Engsci, UofT
 Purpose:    Find potential stocks which drops continuously recently, which may be
             stocks worth to buy.
