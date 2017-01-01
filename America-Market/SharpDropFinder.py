@@ -1,5 +1,5 @@
 '''
-Author:     Shoujun Feng
+Author:     Shoujun Leo Feng
             1T9 Engsci, UofT
 Purpose:    To find the stock that has dropped sharply in the past 10 days.
 Parameter:  stock_symbol, the certain number of days ago.
