@@ -1,5 +1,5 @@
 '''
-Author:     Shoujun Feng
+Author:     Shoujun Leo Feng
             1T9 Engsci, UofT
 
 Purpose:    To calculate the amplitude of the sotck price drop which is large
