@@ -1,5 +1,5 @@
 '''
-Author:     Shoujun Feng
+Author:     Shoujun Leo Feng
             1T9 Engsci, UofT
 Purpose:    To check the stock price at a certain number of days ago
             For example, check the price of ESV 3 days ago
